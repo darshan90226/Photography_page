@@ -8,7 +8,7 @@
 .main_box {
     min-height: 100vh;
     min-height: 100dvh;
-   background-position: 60% center;
+    background: url("photo.jpg") center / cover no-repeat;
 }
 
 /* Open menu button */
